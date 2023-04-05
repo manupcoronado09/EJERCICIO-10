@@ -30,23 +30,3 @@ TAREA DE BOOTCAMP
 </body>
 </html>
 
-.contenedor1 { 
-margin: 25px;
-gap: 2.5%;
-float: left;
-}   
-
-.contenedor2 { 
-    padding: 0.50rem;
-   float: right;
-   margin: 25px;
-   
-  }   
-
-  @media (min-width: 640px) {
-       
-    .contenedor1{
-        display: flex;
-    }
-
-}
